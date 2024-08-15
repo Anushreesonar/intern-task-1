@@ -9,6 +9,11 @@ Duration:August to September 2024
 
 Oveview of the project:
 
+LED blinking with aurdino 
+
+
+objective:
+
 Basic circuit design and microcontroller programming are the goals of an Arduino LED blinking project. Using digital outputs and timing-focused techniques like `delay()', it shows how to operate an LED. As a fundamental exercise for more sophisticated electronics projects, this easy project offers practical experience merging hardware and software.
 
 Key Activities:
