@@ -41,3 +41,6 @@ Electronic Components:necessary parts for constructing the circuit, including a 
 
 USB Interface:utilised for power and programming purposes when connecting the Arduino board to a computer.
 
+
+
+
